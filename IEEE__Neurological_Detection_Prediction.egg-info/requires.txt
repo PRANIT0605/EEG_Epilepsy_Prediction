@@ -1,0 +1,14 @@
+numpy
+scipy
+mne
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+jupyter
+notebook
+pyyaml
+joblib
+dill

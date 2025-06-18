@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: IEEE--Neurological-Detection-Prediction
+Version: 0.0.1
+Author: Pranit Gore
+Author-email: pranitgore0605@gmail.com
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: mne
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
+Requires-Dist: keras
+Requires-Dist: jupyter
+Requires-Dist: notebook
+Requires-Dist: pyyaml
+Requires-Dist: joblib
+Requires-Dist: dill
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
