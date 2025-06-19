@@ -1,44 +1,64 @@
-Here's the initial plan on how I plan to create a workspace:
 
+Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals
 
-Epilepsy-ML-Project/
-│
-├── 📁 data/                         # Raw and processed EEG datasets
-│   ├── raw/                        # Original downloaded datasets
-│   ├── processed/                  # Cleaned or preprocessed files
-│
-├── 📁 notebooks/                   # Jupyter notebooks for exploration
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_real_time_simulation.ipynb
-│
-├── 📁 models/                      # Saved ML/DL models
-│   ├── seizure_detector.pkl
-│   ├── seizure_predictor.h5
-│
-├── 📁 utils/                       # Utility scripts
-│   ├── preprocessing.py
-│   ├── feature_extraction.py
-│   └── model_helpers.py
-│
-├── 📁 presentations/              # PowerPoint decks (.pptx files)
-│   ├── 01_introduction.pptx
-│   └── 02_methodology_outline.pptx
-│
-├── 📁 reports/                    # PDFs, Word/LaTeX documents
-│   ├── project_report_draft.docx
-│   └── ieee_research_paper.tex
-│
-├── 📁 results/                    # Graphs, confusion matrices, etc.
-│   ├── accuracy_plot.png
-│   ├── confusion_matrix.png
-│
-├── 📁 references/                 # Research PDFs, citations
-│   ├── literature_review.pdf
-│   ├── seizure_detection_paper1.pdf
-│
-├── 📄 requirements.txt            # Python libraries
-├── 📄 README.md                   # Project overview
-├── 📄 .env                        # (if using APIs or secrets)
-└── 📄 config.yaml                 # Project-wide settings (optional)
+This project is part of the IEEE EMBS Student Internship Program 2025. The aim is to develop an AI/ML-based system that detects and predicts epileptic seizures from EEG recordings, using real-world patient data from the CHB-MIT Scalp EEG Database.
+
+---
+
+##  Project Goals
+
+- Develop a real-time seizure detection system using EEG data and machine learning.
+- Focus on identifying seizure vs. non-seizure segments in EEG signals.
+- Create an interactive dashboard using Power BI to visualize patient seizure data.
+- Prepare a detailed report and a publishable research paper based on the project outcomes.
+
+- ##  Technologies Used
+
+- Python (Jupyter Notebooks)
+- `mne`, `pandas`, `matplotlib`, `numpy`
+- Power BI for data visualization
+- VS Code for development environment
+
+---
+
+##  Project Progress
+
+- [x] Dataset subset selected and downloaded
+- [x] EDF files read using `mne`
+- [x] EEG visualizations plotted for seizure segments
+- [x] Converted seizure segments into CSV for Power BI use
+- [ ] Power BI dashboard (in progress)
+- [ ] Model training and evaluation
+- [ ] Research paper and report drafting
+
+---
+
+##  Sample Visualization
+
+- EEG signal with seizure segment highlighted
+- Channel-wise waveform plots
+- CSV export for use in dashboards
+
+---
+
+##  Deliverables
+
+- Project Report
+-  Working Prototype
+-  Final Presentation
+-  Publishable Research Paper
+
+---
+
+##  Credits
+
+- This project is being developed under the guidance of mentors from the **IEEE EMBS Pune Chapter**.
+- Patient data used from the open-source **CHB-MIT Scalp EEG Database** on [PhysioNet](https://physionet.org/).
+
+---
+
+##  Contact
+
+For questions, collaborations, or contributions:
+Pranit Gore Email: pranitgore05@gmail.com
+Aditya Mane Email: adityamane1402@gmail.com
