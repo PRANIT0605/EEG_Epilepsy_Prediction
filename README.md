@@ -28,8 +28,9 @@ This project is part of the IEEE EMBS Student Internship Program 2025. The aim i
 - [x] EEG visualizations plotted for seizure segments
 - [x] Converted seizure segments into CSV for Power BI use
 - [ ] Power BI dashboard (in progress)
-- [ ] Model training and evaluation
-- [ ] Research paper and report drafting
+- [x] Model training and evaluation
+- [x] Report drafting
+- [x] Sample Research Paper drafting
 
 ---
 
@@ -60,5 +61,5 @@ This project is part of the IEEE EMBS Student Internship Program 2025. The aim i
 ##  Contact
 
 For questions, collaborations, or contributions:
-Pranit Gore Email: pranitgore05@gmail.com
-Aditya Mane Email: adityamane1402@gmail.com
+- Pranit Gore Email: pranitgore05@gmail.com
+- Aditya Mane Email: adityamane1402@gmail.com
