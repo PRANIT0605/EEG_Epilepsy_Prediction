@@ -22,9 +22,15 @@
 - If any abnormality in spikes is detected, an immediate alert signal will be sent to nearby doctors and the loved ones.
 - Our device will detect live seizures in different timeframes. A user can set up his/her EEG device for a specific time range. For example, an individual can set his/her EEG device for 30/60 minutes or more. Meanwhile, he/she can go to sleep or can do another activity.
 
-## Published Research Paper Link- [Research Paper](https://ieeexplore.ieee.org/document/11378780)
-## UK Patent Link- [EEG Portable Headband](https://www.registered-design.service.gov.uk/find/reu1b8gk/93286159/designsbyowner)
+### **Published Research Paper Link**- [Research Paper](https://ieeexplore.ieee.org/document/11378780)
+## **UK Patent Link**- [EEG Portable Headband](https://www.registered-design.service.gov.uk/find/reu1b8gk/93286159/designsbyowner)
 
+## **Links for Accessing our system:**
+Streamlit App:
+1. FFT Visualization: [**FFT_Visualization**](https://fft-visualization.streamlit.app/)
+2. STFT Visualization: [**STFT Visualization**](https://stft-visualization.streamlit.app/)
+3. Seizure Predictor: [**Seizure Predictor**](https://seizure-predictor.streamlit.app/)
+**Note- At the current stage, please refer to [EEG_Epilepsy_Prediction/notebooks/data] and use one of the Z/O/N/F/S files in the streamlit applications**
 ##  Technologies Used
 1. Hardware & Signal Acquisition-
    - EEG Headband: 8 dry electrodes for real-time data acquisition
@@ -59,8 +65,8 @@
 ##  Credits
 
 - Patient data used from the open-source
-- 1. **CHB-MIT Scalp EEG Database** on [PhysioNet](https://physionet.org/).
-  2. **Bonn Dataset** on [Bonn](https://www.upf.edu/web/ntsa/downloads/-/asset_publisher/xvT6E4pczrBw/content/2001-indications-of-nonlinear-deterministic-and-finite-dimensional-structures-in-time-series-of-brain-electrical-activity-dependence-on-recording-regi)
+- 1. **CHB-MIT Scalp EEG Database** on [**PhysioNet**](https://physionet.org/).
+  2. **Bonn Dataset** on [**Bonn**](https://www.upf.edu/web/ntsa/downloads/-/asset_publisher/xvT6E4pczrBw/content/2001-indications-of-nonlinear-deterministic-and-finite-dimensional-structures-in-time-series-of-brain-electrical-activity-dependence-on-recording-regi)
 
 ---
 
