@@ -1,8 +1,7 @@
 # **Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals**
 
 <img width="850" height="650" alt="image" src="https://github.com/user-attachments/assets/542206a2-ad2a-4bb6-a485-24e0940080bb" />
-
-## **The aim of this project is to develop an AI/ML-based system that detects and predicts epileptic seizures from EEG recordings, using real-world patient data from the CHB-MIT Scalp EEG and the Bonn Database.**
+## ****The aim of this project is to develop an AI/ML-based system that detects and predicts epileptic seizures from EEG recordings, using real-world patient data from the CHB-MIT Scalp EEG and the Bonn Database.****
 
 ---
 ## Problem Statement
@@ -13,6 +12,11 @@
 - The Neurology Center for Epilepsy and Seizures reports that the costs specifically related to epilepsy range from $1,022 to $19,749 per year for general epilepsy populations.
 - Interpreting EEG data is difficult and lacks real-time seizure prediction, which makes it hard for patients to trust the results. It also takes neurologists a long time to make immediate interpretations.
 - Our inspiration for this project came from a conversation with a faculty member whose son faces severe epilepsy; the need for real-time monitoring became personally important to us.
+
+### **Existing EEG Prediction Accuracy vs Our accuracy (NeuroPulse):**
+<img width="2027" height="645" alt="image" src="https://github.com/user-attachments/assets/ce0f1a01-99f0-428a-a908-6740194633b6" />
+
+
 
 
 ##  How our solution helps tackle current problems-
@@ -29,8 +33,9 @@
 Streamlit App:
 1. FFT Visualization: [**FFT_Visualization**](https://fft-visualization.streamlit.app/)
 2. STFT Visualization: [**STFT Visualization**](https://stft-visualization.streamlit.app/)
-3. Seizure Predictor: [**Seizure Predictor**](https://seizure-predictor.streamlit.app/)
-**Note- At the current stage, please refer to [EEG_Epilepsy_Prediction/notebooks/data] and use one of the Z/O/N/F/S files in the streamlit applications**
+3. Seizure Predictor: [**Seizure Predictor**](https://seizure-predictor.streamlit.app/)  
+- **Note- At the current stage, please refer to [EEG_Epilepsy_Prediction/notebooks/data] and use one of the Z/O/N/F/S files in the streamlit applications**
+- 
 ##  Technologies Used
 1. Hardware & Signal Acquisition-
    - EEG Headband: 8 dry electrodes for real-time data acquisition
