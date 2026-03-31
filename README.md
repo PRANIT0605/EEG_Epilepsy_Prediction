@@ -41,12 +41,16 @@
 
 
 ## **Links for Accessing our system:**
+**How to use:** Download any Z/O/N/F/S file from  `notebooks/data/` and upload it to the apps below.
 Streamlit App:
 1. FFT Visualization: [**FFT_Visualization**](https://fft-visualization.streamlit.app/)
 2. STFT Visualization: [**STFT Visualization**](https://stft-visualization.streamlit.app/)
 3. Seizure Predictor: [**Seizure Predictor**](https://seizure-predictor.streamlit.app/)
-   
-- ***Note- At the current stage, please refer to 'EEG_Epilepsy_Prediction/notebooks/data' and use one of the Z/O/N/F/S files in the streamlit application**
+
+## Run Locally
+git clone https://github.com/PRANIT0605/EEG_Epilepsy_Prediction
+pip install -r requirements.txt
+streamlit run stft_app.py
 ---
 
 ##  Technologies Used
