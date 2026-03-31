@@ -23,7 +23,8 @@
 
 ---
 ## Our Device-
-<img width="1034" height="758" alt="image" src="https://github.com/user-attachments/assets/284e0267-cd17-4353-a31a-27c7d60e4fb6" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/284e0267-cd17-4353-a31a-27c7d60e4fb6" />
+
 ---
 
 ### **Existing EEG Prediction Accuracy vs Our accuracy (NeuroPulse):**
