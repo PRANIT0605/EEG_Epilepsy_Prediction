@@ -1,4 +1,4 @@
-<img width="1029" height="656" alt="image" src="https://github.com/user-attachments/assets/542206a2-ad2a-4bb6-a485-24e0940080bb" />
+<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/542206a2-ad2a-4bb6-a485-24e0940080bb" />
 
 Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals
 
@@ -51,6 +51,9 @@ The aim of this project is to develop an AI/ML-based system that detects and pre
    - Cloud Hosting: Azure / AWS for real-time EEG data streaming & alert management
 
 ---
+
+## Web-Page Structure-
+![web-page](https://github.com/user-attachments/assets/cc6700af-7c23-4cf0-96a1-089e61b38a3c)
 
 
 ##  Credits
