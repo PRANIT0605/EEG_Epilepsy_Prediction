@@ -1,4 +1,4 @@
-<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/542206a2-ad2a-4bb6-a485-24e0940080bb" />
+<img width="850" height="650" alt="image" src="https://github.com/user-attachments/assets/542206a2-ad2a-4bb6-a485-24e0940080bb" />
 
 Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals
 
