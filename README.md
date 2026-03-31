@@ -1,7 +1,7 @@
-# **Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals**
+# ***Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals***
 
 <img width="850" height="650" alt="image" src="https://github.com/user-attachments/assets/542206a2-ad2a-4bb6-a485-24e0940080bb" />
-## ****The aim of this project is to develop an AI/ML-based system that detects and predicts epileptic seizures from EEG recordings, using real-world patient data from the CHB-MIT Scalp EEG and the Bonn Database.****
+## ***The aim of this project is to develop an AI/ML-based system that detects and predicts epileptic seizures from EEG recordings, using real-world patient data from the CHB-MIT Scalp EEG and the Bonn Database.***
 
 ---
 ## Problem Statement
@@ -27,14 +27,15 @@
 - Our device will detect live seizures in different timeframes. A user can set up his/her EEG device for a specific time range. For example, an individual can set his/her EEG device for 30/60 minutes or more. Meanwhile, he/she can go to sleep or can do another activity.
 
 ### **Published Research Paper Link**- [Research Paper](https://ieeexplore.ieee.org/document/11378780)
-## **UK Patent Link**- [EEG Portable Headband](https://www.registered-design.service.gov.uk/find/reu1b8gk/93286159/designsbyowner)
+### **UK Patent Link**- [EEG Portable Headband](https://www.registered-design.service.gov.uk/find/reu1b8gk/93286159/designsbyowner)
 
 ## **Links for Accessing our system:**
 Streamlit App:
 1. FFT Visualization: [**FFT_Visualization**](https://fft-visualization.streamlit.app/)
 2. STFT Visualization: [**STFT Visualization**](https://stft-visualization.streamlit.app/)
-3. Seizure Predictor: [**Seizure Predictor**](https://seizure-predictor.streamlit.app/)  
-- **Note- At the current stage, please refer to [EEG_Epilepsy_Prediction/notebooks/data] and use one of the Z/O/N/F/S files in the streamlit applications**
+3. Seizure Predictor: [**Seizure Predictor**](https://seizure-predictor.streamlit.app/)
+   
+**Note- At the current stage, please refer to [EEG_Epilepsy_Prediction/notebooks/data] and use one of the Z/O/N/F/S files in the streamlit applications**
 - 
 ##  Technologies Used
 1. Hardware & Signal Acquisition-
