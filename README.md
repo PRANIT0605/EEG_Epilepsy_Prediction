@@ -1,8 +1,8 @@
+# **Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals**
+
 <img width="850" height="650" alt="image" src="https://github.com/user-attachments/assets/542206a2-ad2a-4bb6-a485-24e0940080bb" />
 
-Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals
-
-The aim of this project is to develop an AI/ML-based system that detects and predicts epileptic seizures from EEG recordings, using real-world patient data from the CHB-MIT Scalp EEG and the Bonn Database.
+## **The aim of this project is to develop an AI/ML-based system that detects and predicts epileptic seizures from EEG recordings, using real-world patient data from the CHB-MIT Scalp EEG and the Bonn Database.**
 
 ---
 ## Problem Statement
