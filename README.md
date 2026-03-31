@@ -22,6 +22,10 @@
 - Our inspiration for this project came from a conversation with a faculty member whose son faces severe epilepsy; the need for real-time monitoring became personally important to us.
 
 ---
+## Our Device-
+<img width="1034" height="758" alt="image" src="https://github.com/user-attachments/assets/284e0267-cd17-4353-a31a-27c7d60e4fb6" />
+---
+
 ### **Existing EEG Prediction Accuracy vs Our accuracy (NeuroPulse):**
 <img width="2027" height="645" alt="image" src="https://github.com/user-attachments/assets/ce0f1a01-99f0-428a-a908-6740194633b6" />
 
