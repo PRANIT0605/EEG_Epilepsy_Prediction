@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![IEEE Published](https://img.shields.io/badge/IEEE-Published-green)
+![UK Patent](https://img.shields.io/badge/UK-Patent%20Holder-orange)
+![Accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen)
 # ***Real-Time Detection and Prediction of Epileptic Seizures using EEG Signals***
 
 ### **Published Research Paper Link**- [**Research Paper**](https://ieeexplore.ieee.org/document/11378780)
