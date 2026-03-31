@@ -47,10 +47,12 @@ Streamlit App:
 2. STFT Visualization: [**STFT Visualization**](https://stft-visualization.streamlit.app/)
 3. Seizure Predictor: [**Seizure Predictor**](https://seizure-predictor.streamlit.app/)
 
-## Run Locally
-git clone https://github.com/PRANIT0605/EEG_Epilepsy_Prediction
-pip install -r requirements.txt
-streamlit run stft_app.py
+### Run Locally
+1. git clone https://github.com/PRANIT0605/EEG_Epilepsy_Prediction
+2. pip install -r requirements.txt
+3. streamlit run stft_app.py
+4. jupyter notebook Epilepsy_NB.ipynb
+5. jupyter notebook patient_data.ipynb
 ---
 
 ##  Technologies Used
@@ -72,7 +74,7 @@ streamlit run stft_app.py
    - Visualization: Frequency bands (α, β, γ, δ), STFT heatmaps, real-time brain region mapping
    - Output: Doctor–Patient dashboard for tracking signals, medications, and alerts
 
-3. Visualization & Dashboard
+3. VWeb Infrastructure, App & Cloud Integration
    - Frontend: React.js / HTML5 / CSS3 (Responsive UI for portal)
    - Backend: Node.js / Flask API for data handling
    - Database: Firebase / MongoDB for patient and doctor records
