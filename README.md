@@ -98,4 +98,3 @@ Streamlit App:
 
 For questions, collaborations, or contributions:
 - Pranit Gore Email: pranitgore05@gmail.com
-- Aditya Mane Email: adityamane1402@gmail.com
